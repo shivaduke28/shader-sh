@@ -36,7 +36,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.9",
+      "version": "2.0.11",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -59,12 +59,6 @@
         "nuget.mono-cecil": "0.1.6-preview"
       },
       "url": "https://packages.unity.com"
-    },
-    "com.unity.package-manager-ui": {
-      "version": "2.2.0",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {}
     },
     "com.unity.postprocessing": {
       "version": "3.1.1",
@@ -117,7 +111,7 @@
       }
     },
     "com.unity.xr.legacyinputhelpers": {
-      "version": "2.1.7",
+      "version": "2.1.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -139,12 +133,6 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "com.vrchat.vrcsdk3": {
-      "version": "file:com.vrchat.vrcsdk3",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "nuget.mono-cecil": {
       "version": "0.1.6-preview",
