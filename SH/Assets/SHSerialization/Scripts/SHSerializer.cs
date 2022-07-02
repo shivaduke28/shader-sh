@@ -15,7 +15,7 @@ namespace SH
                 shData = new SHData();
             }
 
-            LightProbes.GetInterpolatedProbe(Vector3.zero, null, out var sh);
+            LightProbes.GetInterpolatedProbe(transform.position, null, out var sh);
             shData.FromUnity(sh);
         }
 
